@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# projact\\WeatherApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|e:\\c# projact\\weatherapp1\\weatherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|e:\\c# projact\\weatherapp1\\weatherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|e:\\c# projact\\weatherapp1\\weatherapp\\json\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\json\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|e:\\c# projact\\weatherapp1\\weatherapp\\json\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C139712F-283A-444C-9D2D-3BF0BE8CF813}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\json\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weather.cs",
+              "DocumentMoniker": "E:\\c# projact\\WeatherApp1\\WeatherApp\\JSON\\weather.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\JSON\\weather.cs",
+              "ToolTip": "E:\\c# projact\\WeatherApp1\\WeatherApp\\JSON\\weather.cs",
+              "RelativeToolTip": "WeatherApp\\JSON\\weather.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:48:08.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "location.cs",
+              "DocumentMoniker": "E:\\c# projact\\WeatherApp1\\WeatherApp\\JSON\\location.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\JSON\\location.cs",
+              "ToolTip": "E:\\c# projact\\WeatherApp1\\WeatherApp\\JSON\\location.cs",
+              "RelativeToolTip": "WeatherApp\\JSON\\location.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:15:41.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\c# projact\\WeatherApp1\\WeatherApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\c# projact\\WeatherApp1\\WeatherApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:10:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\c# projact\\WeatherApp1\\WeatherApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\MainWindow.xaml",
+              "ToolTip": "E:\\c# projact\\WeatherApp1\\WeatherApp\\MainWindow.xaml",
+              "RelativeToolTip": "WeatherApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T15:10:15.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
